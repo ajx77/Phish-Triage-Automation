@@ -1,0 +1,8 @@
+From: security@fake-bank.com
+To: victim@company.com
+Subject: Immediate Action Required: Verify Account
+Authentication-Results: spf=fail (sender IP 185.220.101.5)
+Date: Tue, 29 Sep 2026 10:00:00 +0000
+
+Dear User,
+Please re-authenticate your banking credentials at http://verify-secure-login.com immediately.
