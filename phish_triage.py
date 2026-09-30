@@ -6,8 +6,8 @@ from email.parser import BytesParser
 import requests
 
 # Insert your API keys here
-ABUSEIPDB_API_KEY = "417cdf19937bca995beb2f6cd31712ceb18e2cf15a21f6c598a3f0692291e6c7770754f423b4303f"
-VIRUSTOTAL_API_KEY = "d700a78c1cabc0f9fbdd74d68fb009794db914a4c76e2f90a038eec4a3f46509"
+ABUSEIPDB_API_KEY = "Put Your API Key"
+VIRUSTOTAL_API_KEY = "Put Your API Key"
 
 def extract_iocs(text):
     """Extract public IP addresses and URLs from raw text."""
